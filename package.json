@@ -1,0 +1,14 @@
+{
+  "name": "mangoosejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mangoosejs/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.1.1"
+  }
+}
